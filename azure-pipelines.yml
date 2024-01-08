@@ -6,7 +6,7 @@ strategy:
     linux:
       operatingSystem: 'ubuntu-latest'
     windows:
-	    operatingSystem: 'windows-latest'
+      operatingSystem: 'windows-latest'
     mac:
       operatingSystem: 'macos-latest'
 pool:
