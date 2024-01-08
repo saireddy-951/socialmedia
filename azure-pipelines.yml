@@ -5,6 +5,8 @@ strategy:
   matrix:
     linux:
       operatingSystem: 'ubuntu-latest'
+  	windows:
+	    operatingSystem: 'windows-latest'
     mac:
       operatingSystem: 'macos-latest'
 pool:
